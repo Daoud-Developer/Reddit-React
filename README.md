@@ -2,7 +2,7 @@
 
 ![](/src/resources/images/banner.png)
 <p align="center">
-  Reddit Clone built with React & java
+  Reddit Clone built with React &  JavaScript
 </p>
 
 ## Short Description 📋
